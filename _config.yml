@@ -41,6 +41,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/reboot_compute
+  - title: rss
+    url: http://www.rebootcompute.ca/feed.xml
 
 # Postal address (add as many lines as necessary)
 #address:
