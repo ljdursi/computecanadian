@@ -5,11 +5,11 @@
   href: "/discussion-paper/"
   subcategories:
     - subtitle: "Executive Summary"
-      subhref: "/exec_summary.html"
+      subhref: "/discussion-paper/exec_summary.html"
     - subtitle: "Background"
-      subhref: "/background.html"
+      subhref: "/discussion-paper/background.html"
     - subtitle: "Principles"
-      subhref: "/principles.html"
+      subhref: "/discussion-paper/principles.html"
 
 - title: "About"
   href: "/about.html"
