@@ -1,32 +1,37 @@
-   <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
-            </div>
+<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#about">About</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#contact">Join The Discussion</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-    </nav>
+<a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+</div>
+
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav navbar-right">
+
+{% for item in site.data.nav %}
+    <!-- check to see if the data file has a submenu, and if so display it -->
+    {% if item.subcategories != null %}
+        <li class="dropdown">
+        <a href="{{ site.url }}{{ item.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ item.title }}<i class="fa fa-angle-down"></i></a>
+        <ul class="dropdown-menu">
+        {% for subcategory in item.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <li>
+        <a href="{{ site.url }}{{ item.href }}">{{ item.title }}</a>
+    {% endif %}
+    </li>
+{% endfor %}
+</ul>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container -->
+</nav>

@@ -1,0 +1,19 @@
+- title: "Home"
+  href: "/"
+
+- title: "Discussion Paper"
+  href: "/discussion-paper/"
+  subcategories:
+    - subtitle: "Executive Summary"
+      subhref: "/exec_summary.html"
+    - subtitle: "Background"
+      subhref: "/background.html"
+    - subtitle: "Principles"
+      subhref: "/principles.html"
+
+- title: "About"
+  href: "/about.html"
+
+
+- title: "Join The Discussion"
+  href: "/muut.html"
