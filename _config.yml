@@ -1,7 +1,7 @@
 # Site settings
 title: Rebooting Compute Canada
 email: info@rebootcompute.ca
-url: https://www.rebootcompute.ca
+url: http://www.rebootcompute.ca.s3-website.ca-central-1.amazonaws.com
 description: "Building a successful and federal computational research enterprise, together"
 skills: "We can build a successful and federal computational research enterprise, together"
 meta_author: Reboot Compute
@@ -38,15 +38,17 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/reboot_compute
+  - title: envelope
+    url: mailto:info@rebootcompute.ca
   - title: rss
-    url: http://www.rebootcompute.ca/feed.xml
+    url: /feed.xml
 
 # Postal address (add as many lines as necessary)
 #address:
 #  - line: Across Canada
 
 # Credits content
-credits: Many have contributed to the proposals here; join the conversation!
+#credits: Many have contributed to the proposals here; join the conversation!
 
 # Build settings
 markdown: kramdown
