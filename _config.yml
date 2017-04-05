@@ -3,14 +3,11 @@ title: Rebooting Compute Canada
 email: info@rebootcompute.ca
 url: https://www.rebootcompute.ca
 description: "Building a successful and federal computational research enterprise, together"
-skills: "Building a successful and federal computational research enterprise, together"
+skills: "We can build a successful and federal computational research enterprise, together"
 meta_author: Reboot Compute
 
 # Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+google_verify: "Rss2PQg3cWxCqZZ3HYy5an9MaKKeTz1GtdL4vT-_xQM"
 
 # Contact form:
 #- static : pass through formspree.io to validate email sending

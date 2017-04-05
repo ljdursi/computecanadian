@@ -3,7 +3,7 @@ title: Background
 permalink: discussion-paper/background.html
 layout: default
 ---
-Background {#background .unnumbered}
+Background 
 ==========
 
 Compute Canada has failed. We need the next one to succeed.
@@ -63,7 +63,7 @@ together do have the power, and the duty to researchers, to reorganize
 Compute Canada and rebuild a more responsive national platform for
 computational research support.
 
-But we can’t begin to fix our shared national computational research
+But we can't begin to fix our shared national computational research
 support enterprise without first choosing what “fixed” looks like. An
 inwards-focused Operational Plan exercise was promised after the
 externally-focused strategic planning process in 2014; this never

@@ -3,7 +3,7 @@ title: Principles
 permalink: discussion-paper/principles.html
 layout: default
 ---
-Principles {#principles .unnumbered}
+Principles 
 ==========
 
 Any structure for a Compute Canada, present or future, must be judged
@@ -13,8 +13,8 @@ support organization.
 We propose six such principles, listed below. In this section we
 describe them at length, and their current status.
 
-Researcher-Centred {#researcher-centred .unnumbered}
-------------------
+Researcher-Centred 
+-----------------
 
 In any long-running organization, there is a tendency to lose the
 perspective of the clients and instead to make decisions based on what
@@ -24,7 +24,7 @@ important for its own sake, rather than simply being a way to achieve
 success for a client.
 
 Modern agile software development addresses this problem by having
-desired “User stories” – a new task a user would want to perform – drive
+desired "User stories" &mdash; a new task a user would want to perform &mdash; drive
 software development, with a product owner in charge of prioritizing the
 user stories so that they genuinely reflect the needs of the clients.
 While this is more meaningful for software development than service
@@ -79,7 +79,7 @@ be justified in terms of making it easier for specific researchers to
 tackle concrete current or proposed projects of theirs, and the amount
 of resources allocated to that decision are proportional to those goals.
 
-Service Oriented {#service-oriented .unnumbered}
+Service Oriented
 ----------------
 
 Keeping the researcher central to decision-making will not automatically
@@ -140,7 +140,7 @@ available to the organization. New services are rigorously trialled with
 pilots before rolling out nationally, and service offerings are pruned
 if unnecessary.
 
-Modern {#modern .unnumbered}
+Modern 
 ------
 
 A research service organization which uses technology to address
@@ -182,7 +182,7 @@ Customer Relationship Management (CRM) packages, so that staff anywhere
 in Canada who might be able to bring their expertise to bear to assist
 the researcher can quickly be brought up to speed.
 
-National {#national .unnumbered}
+National 
 --------
 
 Any conversation about Compute Canada has to have as a starting point
@@ -213,7 +213,7 @@ funding formulas that divvy funding up by the number of users in
 geographical catchment areas, but must fund services and providers to
 support researchers nationally.
 
-Interoperable, not Identical {#interoperable-not-identical .unnumbered}
+Interoperable, not Identical 
 ----------------------------
 
 The internet is arguably the most important computational tool for
@@ -257,7 +257,7 @@ expectations and interoperability requirements allow the site to
 participate fully by exposing their services and infrastructure through
 clear interfaces and requirements.
 
-Equal Federal Partners {#equal-federal-partners .unnumbered}
+Equal Federal Partners 
 ----------------------
 
 Canada has one of the most fiscally decentralized governments in in the

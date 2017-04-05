@@ -6,14 +6,12 @@
   subcategories:
     - subtitle: "Executive Summary"
       subhref: "/discussion-paper/exec_summary.html"
-    - subtitle: "Background"
+    - subtitle: "1. Background"
       subhref: "/discussion-paper/background.html"
-    - subtitle: "Principles"
+    - subtitle: "2. Principles"
       subhref: "/discussion-paper/principles.html"
-
-- title: "About"
-  href: "/about.html"
-
+    - subtitle: "Whole document as a PDF:"
+      subhref: "/files/RebootingComputeCanada.pdf"
 
 - title: "Join The Discussion"
-  href: "/muut.html"
+  href: "/muut/index.html"

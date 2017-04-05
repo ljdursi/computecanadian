@@ -3,7 +3,7 @@ title: Executive Summary
 permalink: discussion-paper/exec_summary.html
 layout: default
 ---
-Executive Summary{#background .unnumbered}
+Executive Summary
 ==========
 
 As computing and data becomes more vital to research and scholarship in
