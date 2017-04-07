@@ -19,11 +19,12 @@
     <div class="content">
         <div class="discussionsection">
             <img src="/img/profile-sm.png"> 
-            <h3>Our Discussion Paper</h3>
+            <h3>News: {{page.title}}</h3>
+            <br/>
         </div>
-    {{ content }}
-    <hr>
-    <p>A PDF version of the discussion paper can be downloaded <a href="/files/RebootingComputeCanada.pdf">here</a>.</p>
+        <h4>{{ page.date | date_to_string }}</h4>
+        {{ page.content }}
+        <hr>
     </div>
 
     {% include footer.html %}

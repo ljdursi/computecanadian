@@ -6,6 +6,8 @@ description: "Building a successful and federal computational research enterpris
 skills: "We can build a successful and federal computational research enterprise, together"
 meta_author: Reboot Compute
 
+future: true
+
 # Google webmaster tools
 google_verify: "Rss2PQg3cWxCqZZ3HYy5an9MaKKeTz1GtdL4vT-_xQM"
 
@@ -32,7 +34,6 @@ color:
 footer:
   copyright: Reboot Compute Canada
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,7 +49,7 @@ social:
 #  - line: Across Canada
 
 # Credits content
-#credits: Many have contributed to the proposals here; join the conversation!
+#credits: 
 
 # Build settings
 markdown: kramdown

@@ -13,5 +13,8 @@
     - subtitle: "Whole document as a PDF"
       subhref: "/files/RebootingComputeCanada.pdf"
 
+- title: "News"
+  href: "/news/index.html"
+
 - title: "Join The Discussion"
   href: "/muut/index.html"
