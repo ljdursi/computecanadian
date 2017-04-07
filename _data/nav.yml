@@ -10,6 +10,10 @@
       subhref: "/discussion-paper/background.html"
     - subtitle: "2. Principles"
       subhref: "/discussion-paper/principles.html"
+    - subtitle: "3. Rebuilding"
+      subhref: "/discussion-paper/rebuilding.html"
+    - subtitle: "4. What's Next"
+      subhref: "/discussion-paper/whats_next.html"
     - subtitle: "Whole document as a PDF"
       subhref: "/files/RebootingComputeCanada.pdf"
 
