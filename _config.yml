@@ -54,3 +54,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+include: [ "discussion-paper" ]
