@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prologue: The New Project
+title: Prologue - The New Project
 permalink: discussion-paper/03_prologue.html
 bibliography: 'refs.bib'
 ---

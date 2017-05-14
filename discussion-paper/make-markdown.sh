@@ -30,7 +30,7 @@ function patchmd {
 
 patchmd 01_executive_summary.md "Executive Summary"
 patchmd 02_introduction.md "Introduction"
-patchmd 03_prologue.md "Prologue: The New Project"
+patchmd 03_prologue.md "Prologue - The New Project"
 patchmd 04_principles.md "Principles"
 patchmd 05_governance_best_practices.md "Governance Best Practices from Other Federations"
 patchmd 06_principles_to_operations.md "From Principles to Operations"
