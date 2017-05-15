@@ -16,7 +16,9 @@ p.small {
     font-size: 16px;
 }
 
-.footnote p, li, a{
+a.footnote,
+p.footnote
+li.footnote {
     font-size:12px;
 }
 
