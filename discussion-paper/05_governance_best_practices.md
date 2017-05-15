@@ -60,11 +60,11 @@ However, in the case of our federation, this move may have been
 incomplete. In both of those two cases part of the process involved
 clear partnership agreements agreed to by the new regional organizations
 and the central office as to the roles and responsibilities of each.
-(\relaxStrategic Leverage Partners 2009) briefly describe a similar
-process with the American Cancer Society and the Girl Scouts of America
-— in the case of the Girl Scouts, the clarity of interactions offered by
-this detailed description of roles allowed, for the first time,
-delivering programs jointly with external partners
+(Partners 2009) briefly describe a similar process with the American
+Cancer Society and the Girl Scouts of America — in the case of the Girl
+Scouts, the clarity of interactions offered by this detailed description
+of roles allowed, for the first time, delivering programs jointly with
+external partners
 
 In a case study of the World Wildlife Fund US (Wei-Skillern and Herman
 2008), staff described these sorts of agreements very positively: “We
@@ -80,16 +80,16 @@ federated organizations which speaks to the central dilemma facing their
 Boards:
 
 > “A clear distinction needs to be made between the role of the national
-> Board of Directors as it relates to the [\[]{}central office[\]]{} and
-> its role in the federation. Some national Board of Directors act as if
+> Board of Directors as it relates to the \[central office\] and its
+> role in the federation. Some national Board of Directors act as if
 > they have a greater ability to set direction and impose behaviors then
 > is the case. As a result, they undervalue the essential role of the
-> [\[]{}central office[\]]{} within the federation as convener and
-> facilitator. … Even the language used by federations can be
-> illustrative of the confusion about the role of the [\[]{}central
-> office[\]]{}. The [\[]{}central office[\]]{} is a partner in the
-> federation, but written and verbal communication often describes the
-> [\[]{}central office[\]]{} as the federation.”
+> \[central office\] within the federation as convener and facilitator.
+> … Even the language used by federations can be illustrative of the
+> confusion about the role of the \[central office\]. The \[central
+> office\] is a partner in the federation, but written and verbal
+> communication often describes the \[central office\] as the
+> federation.”
 
 This dilemma is particularly acute for a research support organization,
 where the Board has responsibilities to both a national membership
@@ -133,8 +133,8 @@ member-owned non-profit — requires active participation of the members
 to be successful. A finding of (Widmer and Houchin 1999) is that even in
 federations where “the membership may appear to have significant powers,
 in practice, the influence of the membership may be limited by
-infrequent opportunities to exercise power [\[]{}...[\]]{}, little
-control over the agenda, lack of experience and cohesion among affiliate
+infrequent opportunities to exercise power \[...\], little control over
+the agenda, lack of experience and cohesion among affiliate
 representatives, and infrequent meetings of the membership”, whereas in
 other organizations the membership is given many more opportunities to
 participate in governance, from advisory roles to votes on policies.
@@ -260,6 +260,7 @@ On the other hand, if the value of federation isn’t made clear, partners
 may stop engaging with the federation or even depart, such as with the
 recent situation with the Alzheimer’s Association in the US (McCambridge
 2016).
+
 
 References
 ================================================
