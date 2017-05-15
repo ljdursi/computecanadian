@@ -122,9 +122,10 @@ As the uses of computation and data broaden, and become more integrated
 into all areas of scholarship, investigators will increasingly need
 services that require coordination of remote and institutional
 computation and storage, networking, data management, and other research
-services. It won’t — and shouldn’t — matter to those researchers that
-the necessary coordination will happen to cross multiple organizational
-boundaries.
+services. It won’t — and shouldn’t — matter to those researchers this
+coordination happens; either across multiple organizational boundaries
+or within a single organization so long as the access to resources is
+seamless.
 
 Several models for how this close collaboration could work have been
 proposed, and should be discussed by the community at large. As

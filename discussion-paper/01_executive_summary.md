@@ -45,10 +45,9 @@ the organization. And that engagement needs to extend to all who are
 invested in the success of research in Canada: regional staff and
 Boards, institutional staff, researchers and funders, and other
 organizations that provide digital infrastructure for research in
-Canada. Because of the author’s experience and immediate relevance, the
-document focusses on Compute Canada in particular, but the principles
-and proposals apply to any digital research infrastructure providers, or
-the system as a whole.
+Canada. This document focusses on Compute Canada in particular, but the
+principles and proposals apply to any digital research infrastructure
+providers, or the system as a whole.
 
 Success for this document will mean starting conversations, inspiring
 other documents and differing points of view, and the emerging of a
