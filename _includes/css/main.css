@@ -16,6 +16,10 @@ p.small {
     font-size: 16px;
 }
 
+.footnote p, li, a{
+    font-size:12px;
+}
+
 a,
 a:hover,
 a:focus,
