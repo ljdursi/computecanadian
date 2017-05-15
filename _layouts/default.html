@@ -26,7 +26,7 @@
     <hr>
 <div class="paper-sections-footer">
 {% for item in site.data.nav %}
-<section class="post-entries">
+<section class="ppr-sections">
   {% if item.title == "Discussion Paper" %}
     <ul>
     {% for subitem in item.subcategories %}
@@ -35,6 +35,7 @@
     </ul>
   {% endif %}
 {% endfor %}
+</section>
 </div>
     </div>
     {% include footer.html %}

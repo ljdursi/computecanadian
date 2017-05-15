@@ -175,6 +175,11 @@ section {
     padding-bottom: 25px;
 }
 
+section.ppr-sections {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 section h2 {
     margin: 0;
     font-size: 3em;
