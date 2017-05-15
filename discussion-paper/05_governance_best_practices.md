@@ -261,34 +261,37 @@ may stop engaging with the federation or even depart, such as with the
 recent situation with the Alzheimer’s Association in the US (McCambridge
 2016).
 
+References
+================================================
+
 Brown, L. David, Alnoor Ebrahim, and Srilatha Batliwala. 2012.
 “Governing International Advocacy NGOs.” *World Development* 40 (6):
 1098–1108.
-doi:[http://doi.org/10.1016/j.worlddev.2011.11.006](https://doi.org/http://doi.org/10.1016/j.worlddev.2011.11.006).
+[link](http://doi.org/10.1016/j.worlddev.2011.11.006).
 
 Grossman, Allen, and V Kasturi Rangan. 2001. “Managing Multisite
 Nonprofits.” *Nonprofit Management and Leadership* 11 (3). Wiley Online
 Library: 321–37.
 
 McCambridge, Ruth. 2016. “Why Local Alzheimer’s Association Chapters Are
-Breaking with National.” *Nonprofit Quarterly*.
+Breaking with National.” *Nonprofit Quarterly* [link](https://nonprofitquarterly.org/2016/01/25/why-local-alzheimers-association-chapters-are-breaking-with-national/).
 
 Mollenhauer, L. 2009. “A Framework for Success for Nonprofit
 Federations, Revised.”
-[http://www.mollenhauer.ca/pdfs/Federations\\%20Framework\\%20for\\%20Success\\%20for\\%20Nonprofit\\%20Federations\\%20November\\%202009.pdf](http://www.mollenhauer.ca/pdfs/Federations\%20Framework\%20for\%20Success\%20for\%20Nonprofit\%20Federations\%20November\%202009.pdf).
+[link](http://www.mollenhauer.ca/pdfs/Federations%20Framework%20for%20Success%20for%20Nonprofit%20Federations%20November%202009.pdf).
 
 ———. 2012. “Transformation in Structure and Governance: National Health
 Charities Respond to New Challenges and Opportunities.”
-[http://www.mollenhauer.ca/pdfs/HCCC\\%20Transformations\\%20.pdf](http://www.mollenhauer.ca/pdfs/HCCC\%20Transformations\%20.pdf).
+[link](http://www.mollenhauer.ca/pdfs/HCCC%20Transformations%20.pdf).
 
-\relaxStrategic Leverage Partners. 2009. “Local Business Structures
+Strategic Leverage Partners. 2009. “Local Business Structures
 Within a Federated Model.”
-<http://www.strategicleveragepartners.com/Perspectives_on_Federations.pdf>.
+[link](http://www.strategicleveragepartners.com/Perspectives_on_Federations.pdf).
 
 Wei-Skillern, Jane, and Kerry Herman. 2008. “World Wildlife Fund U.S.”
 Harvard Business Review Case Study.
-<https://hbr.org/product/world-wildlife-fund-us/308035-PDF-ENG>.
+[link](https://hbr.org/product/world-wildlife-fund-us/308035-PDF-ENG).
 
 Widmer, C.H., and S Houchin. 1999. *Governance of National Federated
 Organizations*. Research in Action. National Center for Nonprofit
-Boards. <https://books.google.ca/books?id=DrwnAAAACAAJ>.
+Boards. [link](https://books.google.ca/books?id=DrwnAAAACAAJ).
