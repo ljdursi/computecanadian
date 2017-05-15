@@ -2,7 +2,7 @@
   href: "/"
 
 - title: "Discussion Paper"
-  href: "/discussion-paper/"
+  href: "/discussion-paper/index.html"
   subcategories:
     - subtitle: "Executive Summary"
       subhref: "/discussion-paper/01_executive_summary.html"
