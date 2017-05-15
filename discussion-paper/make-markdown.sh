@@ -2,7 +2,7 @@
 
 NAME=compute_canadian
 
-csplit -n 2  -f ${NAME}. <( sed -e 's/begin{executive}/section*{Executive Summary}/' -e '/begin{table}/,/begin{tabular}/{//!d;}' -e '/begin{table}/d' -e '/end{tabular}/,/end{table}/{//!d;}' -e '/end{table}/d' -e 's/P{[0-9\.in]*}/l/g' cc3.tex ) '/^.section*/' '{6}'
+csplit -n 2  -f ${NAME}. <( sed -e 's/begin{executive}/section*{Executive Summary}/' -e '/begin{table}/,/begin{tabular}/{//!d;}' -e '/begin{table}/d' -e '/end{tabular}/,/end{table}/{//!d;}' -e '/end{table}/d' -e 's/P{[0-9\.in]*}/l/g' -e 's/\\textcolor{cdaRed}{\(\\textbf{[A-Za-z ]*}\)}/\1/g' cc3.tex ) '/^.section*/' '{6}'
 rm ${NAME}.00
 sed -e '/\\end{executive}/d' ${NAME}.01 > 01_executive_summary.tex; rm ${NAME}.01
 mv ${NAME}.02 02_introduction.tex
@@ -15,7 +15,7 @@ sed -e '/\\end{document}/d' ${NAME}.07 > 07_conclusion.tex; rm ${NAME}.07
 for file in 0[1-7]*.tex
 do
     base=$( basename ${file} .tex )
-    pandoc -s -S -o ${base}.md --bibliography refs.bib -t markdown-native_divs-raw_html-citations ${file} && rm ${file}
+    pandoc -s -S -o ${base}.md --bibliography refs.bib -t markdown-native_divs-raw_html-citations+pipe_tables+grid_tables-simple_tables ${file} && rm ${file}
     sed -i foo $'2i\\\nlayout: default\\\ntitle: Background\\\npermalink: discussion-paper/background.html\\\n' ${base}.md
 done
 

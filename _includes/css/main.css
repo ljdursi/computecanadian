@@ -361,6 +361,18 @@ footer .footer-below {
     outline: 0;
 }
 
+tr:nth-child(even) {background-color: #f2f2f2}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    border-bottom: 1px solid black;
+}
+table {
+    border: 1px solid black;
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
