@@ -24,6 +24,9 @@ what our national platform could be.
 Researcher-Centred 
 ------------------
 
+**Proposal: Research, and concrete researcher needs, should be the basis
+for all decision making.**
+
 All established organizations face the danger of losing the perspective
 of those it serves. It becomes a little too natural to make decisions
 based on what is easiest or best internally; this is especially true if
@@ -68,6 +71,9 @@ researchers will not necessarily know to ask for services that have not
 been routinely provided in the past. One must constantly try new
 offerings, but in a disciplined and researcher-centred way.
 
+**Proposal: A broad range of research-support services should be
+offered, with new services continually piloted.**
+
 New services can be routinely and inexpensively trialled with pilot
 projects, whether they centre on providing expertise, hardware,
 software, or a combination. The training efforts, currently led by the
@@ -89,6 +95,9 @@ advanced degrees; it is critical that the federation makes as much use
 of this skill and expertise to provide researchers the most important
 added support, and retains these experts by providing meaningful
 opportunities to contribute to research.
+
+**Proposal: Services offered elsewhere, such as having staff participate
+more closely in research, should be investigated.**
 
 We can look to a variety of international organizations for examples of
 successful service offerings. Examples include XSEDE’s extended
@@ -112,6 +121,10 @@ Any conversation about Compute Canada must have as a starting point that
 Canadian researchers merit having access to a national portfolio of
 resources, and that their location in the country cannot matter for the
 type and level of services received.
+
+**Proposal: The platform must be available to the entire Canadian
+research community, with specific efforts to efficiently assemble the
+most appropriate resources to support new and existing communities.**
 
 Truly national provision of resources to researchers, particularly
 resources as diverse and important as expertise, is something which
@@ -150,6 +163,9 @@ G20. This flexibility has real benefits, but it introduces complexities
 that are just as real, and is why there are no ready-made organizational
 models for research support from abroad for us to copy for our national
 project.
+
+**Proposal: The structure of our federation partnership must reflect the
+reality of several funding partners.**
 
 The majority of funding for Compute Canada is driven by the provinces
 and institutions with only 40% coming from national sources. The
@@ -203,6 +219,9 @@ browser, nor enforce a list of services that every website must provide
 each user. Instead, strict interoperability requirements, coupled with
 the freedom to innovate within those standards, have combined to make
 the internet such a powerful research tool.
+
+**Proposal: The services offered by the national platform must be
+interoperable, not merely identical.**
 
 The Canadian research environment can be strengthened by ensuring that
 each project has the potential to access the complete national portfolio
@@ -260,6 +279,9 @@ This document outlines principles for a successful federated Compute
 Canada, and one possible path to get there, but nothing is possible
 without all parties wanting success and wanting to collaborate.
 
+**Proposal: The federation should aim to achieve more than the partners
+could achieve separately.**
+
 Collaboration is not easy, and it often comes at the cost of taking more
 time and energy. Working together, building consensus and getting people
 onside requires time and compromise. And the only way this is possible
@@ -287,6 +309,9 @@ are all technologies which could have significant impact on research
 computing in the quite-near future — but they can also be new techniques
 for robustly and efficiently providing technical services.
 
+**Proposal: New training should continually be available for emerging
+hardware and operational tools.**
+
 An organization which embraces having modern tools must ensure there is
 adequate staff time and training to learn and explore new hardware.
 Small experimental systems must be made available to staff (and
@@ -311,6 +336,9 @@ effective. Techniques like Google’s now-widely adopted SRE approach[^3]
 or Netflix’s ‘Chaos Monkey’ emphasize automation, rigorous testing, and
 continuous improvement, allow staff to focus on providing higher quality
 services.
+
+**Proposal: The federation should make use of best available tools for
+interacting with and supporting researchers.**
 
 Since interactions with the researcher are so important, a modern
 research support organization also takes advantage of new tools from

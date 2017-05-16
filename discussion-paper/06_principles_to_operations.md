@@ -13,6 +13,9 @@ improve how our federation functions, but we must make sure that the
 federation operates in a way that lives up to the principles we choose
 for our organization.
 
+**Proposal: Key Performance Indicators (KPIs) should reflect our
+Principles.**
+
 We must ensure that the metrics we set ourselves to measure success are
 measuring the right things, rather than being easy to count. This is
 genuinely difficult; it is easier to measure interactions with
@@ -38,6 +41,9 @@ services with the associated Service Level Agreements (SLAs) and
 interfaces. The SLAs must have clearly defined metrics for evaluating
 the effectiveness of the services provided.
 
+**Proposal: Services provided should come with agreed-upon SLAs ensuring
+quality and interoperability.**
+
 A federation colleague (ie: a region or the central office) will propose
 taking on the responsibility for providing some or all of the necessary
 service or services: allowing regions to build on existing strengths or
@@ -48,6 +54,9 @@ possible by some pre-agreed upon process led by the central office.
 Once the agreement is made, the provider is free to implement the
 service in any way they see fit, but are held accountable for meeting
 the agreed-upon standards and metrics.
+
+**Proposal: Services should be piloted, with definitions of success
+decided upon before the pilot.**
 
 Most services should normally go through a pilot phase before being
 provided more widely. Deciding what success means for a pilot will
@@ -69,6 +78,9 @@ Relationship between Federation Partners
 While federations of equal partners must have a basis in consensus, each
 partner has specific roles to play.
 
+**Proposal: The central office should be responsible for nation-wide
+needs assessments and researcher satisfaction.**
+
 The central office must be the convenor of the “birds-eye view” of the
 Canadian research community, working closely with national funding
 agencies, national scholarly communities, and other research service
@@ -78,12 +90,18 @@ responsible for performing nation-wide needs assessments, measuring
 researcher satisfaction, and ensuring the input of national researcher
 communities into the federation’s discussions.
 
+**Proposal: The agenda should be managed by the central office, and
+consensus should be found or built around priorities.**
+
 As a convener and facilitator, and as the organization developing
 nation-wide assessments, the central office will always be the setter of
 the federation’s agenda. It will need to be the body that drives the
 push for evidence-based consensus around national priorities, planning
 next steps, and where necessarily, building partnerships outside of the
 federation to accomplish the federation’s agreed-upon goals.
+
+**Proposal: The central office should be responsible for monitoring and
+enforce interoperability and other SLAs on the platform.**
 
 Coherence of the national platform, and adherence to interoperability
 and other agreed-upon standards, will necessarily be the responsibility
@@ -100,11 +118,17 @@ vital, and generally will be the primary technical roles of the central
 office, as researcher-facing technical services and operations will
 generally be best managed by the regional organizations and sites.
 
+**Proposal: Responsibility for operations of researcher-facing services
+should generally belong to the regional organizations.**
+
 Being nimble, and being able to quickly tell if a researcher-facing
 service is successful or if it should be changed, will normally require
 researcher-facing services to be provided organizationally close to the
 researchers. This will generally mean that such services will be housed
 in one or more regional organization.
+
+**Proposal: Internal federation services can be provided by any partner,
+or externally.**
 
 On the other hand, internal services necessary for the administration
 and operation of the federation itself — CRMs, email, dashboards and
@@ -126,6 +150,10 @@ services. It won’t — and shouldn’t — matter to those researchers this
 coordination happens; either across multiple organizational boundaries
 or within a single organization so long as the access to resources is
 seamless.
+
+**Proposal: The federation must work closely with other digital
+infrastructure providers and research services organizations in service
+design, service delivery, and future planning.**
 
 Several models for how this close collaboration could work have been
 proposed, and should be discussed by the community at large. As

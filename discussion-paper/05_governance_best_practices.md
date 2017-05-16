@@ -56,6 +56,10 @@ coherence of local decision-making, while giving the federated
 organization a healthy balance between national office and regional
 offices.
 
+**Proposal: The federation partners should clearly delineate the roles
+and responsibilities of the central office and the regional
+organizations.**
+
 However, in the case of our federation, this move may have been
 incomplete. In both of those two cases part of the process involved
 clear partnership agreements agreed to by the new regional organizations
@@ -74,6 +78,9 @@ roles.”
 
 Boards 
 ------
+
+**Proposal: The central office Board should be provided the training and
+the support necessary to play their role in the federation.**
 
 (Mollenhauer 2009) offers a picture of a frequent challenge in Canadian
 federated organizations which speaks to the central dilemma facing their
@@ -107,6 +114,9 @@ date to take this on with little to no support on how best to proceed.
 Most studies recommend board training that emphasizes the challenges and
 possibilities of a federated system.
 
+**Proposal: The central office and regional Boards should regularly meet
+to ensure alignment of governance.**
+
 With the recognition that a central office Board does not operate in a
 vacuum, some other possibilities for support present themselves. While
 in our federation to date there has been much effort in establishing
@@ -127,6 +137,9 @@ putting the burden on researchers to govern the federation that should
 be working on their behalf is unreasonable, and that the existing model
 of membership comprising institutions in their role as representing
 researchers is a reasonable compromise.
+
+**Proposal: Members should be given the access and support they need to
+play an active role in the federation.**
 
 Shared governance in a federation — or indeed the governance of any
 member-owned non-profit — requires active participation of the members
@@ -182,6 +195,9 @@ is that
 > facilitation and puts high value on process as well as on delivering
 > results.”
 
+**Proposal: Federation-wide decision making should be be supported by
+consensus.**
+
 This doesn’t mean that consensus must be achieved for every single
 agenda item in a meeting — that brings paralysis — but on
 decision-making processes themselves there must be explicit, formal
@@ -219,6 +235,10 @@ the authors’ view was the value of affiliation into a federation for the
 partners; if there was high value in a federation, one would persist and
 be stable, even in the presence of disagreements about operations or
 strategy.
+
+**Proposal: The federation should make it clear internally, to the
+research community, and to funders, the value of providing services as a
+federation.**
 
 In the case of our federation, there are several important ways a
 federation can be valuable to the partners, although these have not yet

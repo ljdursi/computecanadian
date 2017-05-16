@@ -4,6 +4,8 @@
 - title: "Discussion Paper"
   href: "/discussion-paper/index.html"
   subcategories:
+    - subtitle: "Specific Proposals"
+      subhref: "/discussion-paper/00_proposals.html"
     - subtitle: "Executive Summary"
       subhref: "/discussion-paper/01_executive_summary.html"
     - subtitle: "1. Introduction"
