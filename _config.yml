@@ -52,4 +52,4 @@ social:
 markdown: kramdown
 permalink: pretty
 
-include: [ "discussion-paper", "files" ]
+include: [ "discussion-paper", "ComputeCanadianDiscussionPaper.pdf" ]
