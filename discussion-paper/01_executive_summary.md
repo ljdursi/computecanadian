@@ -28,26 +28,26 @@ making choices driven by research needs and not technical choices, and
 should make full use of the diversity and specialization that a Canadian
 federation and its partners offer.
 
-From those principles, we make evidence-based proposals for an renewed
+From those principles, we make evidence-based proposals for a renewed
 Canadian organization. Comparisons with successful examples of federated
 organizations within Canada and abroad suggest that while the basic
-architecture of our federation is sound, important relationships need to
-be clarified. While a central office must be responsible for the
-processes of defining priorities, strategies, and standards of
-interoperability, a successful federation requires those processes to
-set by consensus, by partners committed to the goals of the
-organization. The Board of the central office in a federation must have
-experience and training to handle the delicate task of governing a
-central office but being responsible to a national community. The
-Members need better visibility into the operations of the central office
-and the federation as a whole so that they can own their vital role in
-the organization. And that engagement needs to extend to all who are
-invested in the success of research in Canada: regional staff and
-Boards, institutional staff, researchers and funders, and other
-organizations that provide digital infrastructure for research in
-Canada. This document focusses on Compute Canada in particular, but the
-principles and proposals apply to any digital research infrastructure
-providers, or the system as a whole.
+architecture of our federation is sound, important roles and
+relationships need to be clarified. While a central office must be
+responsible for the processes of defining priorities, strategies, and
+standards of interoperability, a successful federation requires those
+processes to have buy-in from partners committed to the goals of the
+federation. The Board of Directors of the central office in a federation
+must have experience and training to handle the delicate task of
+governing a central office but being responsible to a national
+community. The Members need adequate visibility into the operations of
+the central office and the federation as a whole so that they can
+support their vital role to the organization. And that engagement needs
+to extend to all who are invested in the success of research in Canada:
+regional staff and Boards, institutional staff, researchers and funders,
+and other organizations that provide digital infrastructure for research
+in Canada. This document focusses on Compute Canada in particular, but
+the principles and proposals apply to any digital research
+infrastructure providers, or the system as a whole.
 
 Success for this document will mean starting conversations, inspiring
 other documents and differing points of view, and the emerging of a

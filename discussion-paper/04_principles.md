@@ -16,10 +16,10 @@ what our national platform could be.
 | Researcher-Centred           | The driver for every decision is researcher needs, with technology a means to an end.                                               |
 | Service Oriented             | The organization aims to enable research in a number of well-defined ways.                                                          |
 | National                     | The platform aims to support researchers as best possible, regardless of where the researchers or the resources are.                |
-| Equal Partners in Federation | Multiple funding partners, provinces, institutions, and the national office share different but equally important responsibilities. |
-| Interoperable, not Identical | All parts of the natural platform must interoperate seamlessly, but they need not and should not be identical.                      |
+| Equal Federal Partners       | As equal funding partners, provinces, institutions, and the national office share different but equally important responsibilities. |
+| Interoperable, not Identical | All parts of the national platform must interoperate seamlessly, but they need not and should not be identical.                     |
 | Collaborative                | All parties that support the platform are coming to the table in good faith to achieve a common goal.                               |
-| Modern                       | Tools are offered where they improve the services and support for researchers.                                                      |
+| Up-To-Date                   | Tools are offered where they improve the services and support for researchers.                                                      |
 
 Researcher-Centred 
 ------------------
@@ -37,6 +37,15 @@ own sake, rather than simply being a way to help a client achieve
 success. Note that in the Prologue, everything is arranged around
 success for the researcher.
 
+| **Not Researcher Centred**                                                   | **Researcher Centred**                                                                               |
+|:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
+| Users must fill out many elaborate forms                                     | Easy sign-up, renewals, resource allocations                                                         |
+| Technology drives decision-making                                            | Researcher goals drive decision-making                                                               |
+| RFPs specify architecture, interconnects, feeds and speeds                   | RFPs specify job mixes, wait times, researcher-facing metrics                                        |
+| Projects and collaborations are launched for their own sake                  | Projects and collaborations undertaken to meet specific, concrete, researcher needs                  |
+| The researchers adapt to the way things are done                             | The way things are done adapt to the researchers                                                     |
+| Researchers cobble together services across digital infrastructure providers | Digital infrastructure providers work closely together to provide seamless services researchers need |
+
 The difference between an organization that is focussed on its clients
 and one whose focus is internal is reflected in behaviour, in particular
 where time and money is spent. In a researcher-focussed technical
@@ -52,15 +61,6 @@ resources allocated to that decision are proportional to those goals.
 A researcher-centred organization must also ensure that they work
 closely with other partners, so that researcher needs requiring
 cooperation between service providers are met.
-
-| **Not Researcher Centred**                                                   | **Researcher Centred**                                                                               |
-|:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
-| Users must fill out many elaborate forms                                     | Easy sign-up, renewals, resource allocations                                                         |
-| Technology drives decision-making                                            | Researcher goals drive decision-making                                                               |
-| RFPs specify technical architecture, such as interconnects, feeds and speeds | RFPs specify job mixes, researcher-facing metrics                                                    |
-| Projects and collaborations are launched for various reasons                 | Projects and collaborations undertaken to meet specific, concrete, researcher needs                  |
-| The researchers adapt to the way things are done                             | The way things are done adapt to the researchers                                                     |
-| Researchers cobble together services across digital infrastructure providers | Digital infrastructure providers work closely together to provide seamless services researchers need |
 
 Service Oriented 
 ----------------
@@ -84,7 +84,7 @@ program development.
 | **Not Service Oriented**                                                              | **Service Oriented**                                                               |
 |:--------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | New services are chosen centrally and rolled out on a full scale nationally           | New services are piloted, tested, and scaled-up or phased out                      |
-| Services tend to be low-level with limited value-add                                  | Services range from hardware-provision to research partnership                     |
+| Services tend to be low-level and with less value-add                                 | Services range from hardware-provision to research partnership                     |
 | Services are either devised centrally, or done “the way things have always been done” | Best practices and new services used successfully elsewhere are routinely trialled |
 
 In a technology-focussed research computing organization, the main
@@ -168,8 +168,8 @@ project.
 reality of several funding partners.**
 
 The majority of funding for Compute Canada is driven by the provinces
-and institutions with only 40% coming from national sources. The
-provinces will reasonably have different priorities than the national
+and institutions with only 40% coming from federal sources. The
+provinces will reasonably have different priorities than the federal
 government, and their priorities and existing capabilities will differ
 amongst themselves. Any organizational structure or process that doesn’t
 acknowledge and accommodate these perfectly valid and healthy tensions
@@ -177,9 +177,9 @@ between equal funding partners will be too brittle to last.
 
 | **Unequal Federal Partners**                                                                                        | **Equal Federal Partners**                                                                                                                        |
 |:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Central office makes all decisions                                                                                  | Central and provincial partners make decisions by consensus                                                                                       |
-| Federal government gives money to provinces to spend however they want                                              | Investments are made to build a country-wide platform that supports all researchers, with regional contributions that reflect regional priorities |
-| Understanding of researcher needs limited to either “the researchers we’ve worked with” or “researchers in general” | Researcher needs local and national, supported and not-yet-supported, are considered                                                              |
+| National office makes all decisions                                                                                 | National and provincial partners make decisions by consensus                                                                                      |
+| National government gives money to provinces to spend however they want                                             | Investments are made to build a country-wide platform that supports all researchers, with regional contributions that reflect regional priorities |
+| Understanding of researcher needs limited to either “the researchers we’ve worked with” or “researchers in general” | Researcher needs both local and national, that have been supported already and not, are taken into account                                        |
 
 The crass-but-practical concern of funding is an immediately clear
 justification for this principle, but not the most important. Being
@@ -201,33 +201,34 @@ undertaken to help those researchers that are already being helped, but
 more so, will leave an ever-larger number of investigators behind.
 
 Incorporating both perspectives equally is genuinely difficult. As
-Canadians have known for 150 years, decision-making by consensus between
-federal and provincial bodies can be a slow and occasionally frustrating
-process; but the results are robust and durable, and are better
-decisions for having had the multiple inputs. A platform that values the
-inherently federated nature of our partnership, and interoperability
-rather than uniformity, can build on the strengths and priorities of its
-participants rather than trying to paper them over.
+Canadians have known for 150 years, decision-making between federal and
+provincial bodies can be a slow and sometimes frustrating process; but
+the results are robust and durable, and are better decisions for having
+had the multiple inputs. A platform that values the inherently federated
+nature of our partnership, and interoperability rather than uniformity,
+can build on the strengths and priorities of its participants rather
+than trying to paper them over.
 
 Interoperable, not Identical 
 ----------------------------
 
 The internet is arguably the most important computational tool for
 enabling faster and better research made in modern times, and yet the
-central internet body, the IETF, does not specify brands of computer and
-browser, nor enforce a list of services that every website must provide
-each user. Instead, strict interoperability requirements, coupled with
-the freedom to innovate within those standards, have combined to make
-the internet such a powerful research tool.
+central internet technical body, the Internet Engineering Task Force
+(IETF), does not specify brands of computer and browser, nor does it
+enforce a list of services that every website must provide each user.
+Instead, strict interoperability requirements, coupled with the freedom
+to innovate within those standards, have combined to make the internet
+such a powerful research tool.
 
 **Proposal: The services offered by the national platform must be
 interoperable, not merely identical.**
 
 The Canadian research environment can be strengthened by ensuring that
-each project has the potential to access the complete national portfolio
-of computational science resources. But to focus on implementation
-details rather than interoperability standards is to miss out on many of
-the opportunities that come from that working together and pooling
+each project is able to access the complete national portfolio of
+computational science resources. But to focus on implementation details
+rather than interoperability standards is to miss out on many of the
+opportunities that come from that working together and pooling
 resources. In the Prologue, Shannon interacts with several hardware
 systems and people in varying regions, so that interoperability is
 vital; implementation details are not. Currently some of the national
@@ -268,12 +269,12 @@ personalities can only function if all parties come to the table in good
 faith to discuss and negotiate. It can only be a success if the whole
 becomes greater than the sum of its parts.
 
-| **Not Collaborative**                            | **Collaborative**                                                     |
-|:-------------------------------------------------|:----------------------------------------------------------------------|
-| The focus is only on problems and challenges     | The focus is on solutions and opportunities                           |
-| Parties are focused on their local organizations | Parties are focused on the shared mission of meeting researcher needs |
-| Parties are not willing to compromise            | Parties are willing to give and take to achieve the shared mission    |
-| Coexisting silos                                 | Whole greater than sum of its parts                                   |
+| **Not Collaborative**                            | **Collaborative**                                                                   |
+|:-------------------------------------------------|:------------------------------------------------------------------------------------|
+| The focus is only on problems and challenges     | The focus is on solutions and opportunities                                         |
+| Parties are focused on their local organizations | Parties are focused on the shared mission of meeting researcher needs               |
+| Parties are not willing to compromise            | Parties are willing to give and take to most effectively achieve the shared mission |
+| Coexisting silos                                 | Whole greater than sum of its parts                                                 |
 
 This document outlines principles for a successful federated Compute
 Canada, and one possible path to get there, but nothing is possible
@@ -316,36 +317,36 @@ An organization which embraces having modern tools must ensure there is
 adequate staff time and training to learn and explore new hardware.
 Small experimental systems must be made available to staff (and
 interested researchers) to explore the suitability of new hardware for
-research systems. Canada’s early but cautious and measured adoption of
-GPUs took this approach successfully. And such an organization ought not
-hesitate to make use of commercial cloud providers when appropriate to
-make such new technologies available.
+research systems. Canada’s early but measured adoption of GPUs took this
+approach successfully. And such an organization ought not hesitate to
+make use of commercial cloud providers when appropriate to make such new
+technologies available.
 
 | **Not Embracing Modern Tools**                                                                               | **Embracing Modern Tools**                                                                                                           |
 |:-------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| Limited or no availability of experimental systems                                                           | Ongoing investments in new technology for staff to explore for suitability for researcher use                                        |
+| No availability of experimental systems                                                                      | Invests in new technology for staff to explore for suitability for researcher use                                                    |
 | Little paid staff training                                                                                   | Provides staff with time and training in new methods and techniques                                                                  |
 | Focus on ’tried-and-true’ methods from supercomputing centres for running systems and interacting with users | Focus on exploring, customizing, and using approaches from across large-scale computing for running systems, interacting with users. |
-| Limited or no ongoing investigation of commercial service (*i.e.*, cloud): providers are the competition     | Commercial service providers are one of many options for providing services to researchers                                           |
+| Limited or no ongoing investigation of commercial service (ie: cloud): providers are the competition         | Commercial service providers are one of many options for providing services to researchers                                           |
 
 A modern organization also experiments with and trains on new
 operational tools. As more and more companies rely on computer
 infrastructure, the past decade and a half have led to improved
 approaches to ensuring the services they provide are reliable and
-effective. Techniques like Google’s now-widely adopted SRE approach[^3]
+effective. Techniques like Google’s now widely adopted SRE approach[^3]
 or Netflix’s ‘Chaos Monkey’ emphasize automation, rigorous testing, and
 continuous improvement, allow staff to focus on providing higher quality
 services.
 
 **Proposal: The federation should make use of best available tools for
-interacting with and supporting researchers.**
+interacting with, and supporting researchers.**
 
 Since interactions with the researcher are so important, a modern
 research support organization also takes advantage of new tools from
 elsewhere for working with clients. Customer Relationship Management
-(CRM) packages enable the following of researcher interactions and
-project progress, allowing staff anywhere in Canada to come up to speed
-and assist a remote researcher. In the Prologue, Shannon benefits from
+(CRM) packages enable tracking researcher interactions and project
+progress, allowing staff anywhere in Canada to come up to speed and
+assist a remote researcher. In the Prologue, Shannon benefits from
 up-to-date hardware, system methodologies, and interaction tools.
 
 [^1]: <https://www.xsede.org/ecss>

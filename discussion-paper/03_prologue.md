@@ -16,7 +16,7 @@ chance she could have a mostly-complete first draft ready by then.
 It was a little surprising how quickly the work had gone. She had joined
 Prof. Reeve’s group bringing experimental and data-analysis expertise,
 but extending the work through comparison to simulations had required
-developing new skills, and she couldn’t lean on her new colleagues for
+developing new skills and she couldn’t lean on her new colleagues for
 much help: as someone who had analyzed quite-large experimental datasets
 during grad school abroad, she *was* the local computational expert in
 the growing experimental group.
@@ -35,7 +35,7 @@ pointers to relevant papers, Walter ended up introducing her to Stella
 Gregory, another consulting analyst stationed in Nova Scotia; Stella had
 run very similar sorts of simulations herself, and suggested a slightly
 different approach which would give significantly better results. It
-took a couple of Vidyo calls, but afterwards Shannon had a pretty good
+took a couple of video calls, but afterwards Shannon had a pretty good
 idea how to proceed, especially with the online interactive training
 material Stella pointed her to.
 
@@ -49,7 +49,7 @@ wasn’t clear, but apparently BC was big into visualization) that had
 GPUs and a file system better suited for this sort of work. The same
 tools that helped her manage her data to ensure she met her funders data
 sharing requirements allowed her to move the data, so migrating the
-files to and from was pretty painless. In fact it went so smoothly that
+files to and from was pretty painless. In fact, it went so smoothly that
 the one time that it hung for ten minutes, she wrote an email to the
 helpdesk wondering if she had done something wrong. By the time she hit
 Send, it had started up again. Helpdesk proudly, if somewhat
@@ -62,7 +62,7 @@ When the visualizations were far enough along to be able to make movies,
 the team at the weekly group meeting was so impressed that she almost
 felt a little sheepish. Or, at least right up until the new grad student
 asked if she could now analyze the simulated data using exactly the same
-pipeline as the experimental data , and compare it with two other data
+pipeline as the experimental data, and compare it with two other data
 sets she had found from researchers in Ontario and Australia; Prof.
 Reeves started enthusing about the idea.
 
@@ -72,12 +72,12 @@ experimental data and at *way* higher resolution; it wasn’t at all clear
 that this was going to work. There had been a lot of experimental data,
 sure, but it was mainly about working with large numbers of small
 datasets. Dealing with this much higher resolution data might be an
-issue. When she tested the python scripts on her desktop, they crashed
+issue. When she tested the Python scripts on her desktop, they crashed
 almost immediately.
 
 She contacted Walter, describing her algorithm, the distributed data
 sets and the problem. He said that he’d look into the issue further and
-pointed her to to some upcoming online python parallel programming
+pointed her to to some upcoming online Python parallel programming
 courses.
 
 A couple of days later she was contacted by Carolyn Malone, who

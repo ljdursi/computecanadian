@@ -119,7 +119,7 @@ to ensure alignment of governance.**
 
 With the recognition that a central office Board does not operate in a
 vacuum, some other possibilities for support present themselves. While
-in our federation to date there has been much effort in establishing
+in our federation to date, there has been much effort in establishing
 ongoing meetings between management and staff of the partners of our
 federation, several works also suggest similar interactions between
 members of the Boards of the partners to ensure alignment of governance,
@@ -165,10 +165,10 @@ membership should be reduced as much as feasible.
 Federation-wide Decision Making 
 -------------------------------
 
-The role of a central office and how it interacts with with the other
-partners in the federation is crucial to a federation’s success. Brown,
-Ebrahim, Batliwala (2012) identified several factors which determine
-whether successful international organizations function as a
+The role of a central office and how it complements the roles of the
+other partners in the federation is crucial to a federation’s success.
+(Brown, Ebrahim, and Batliwala 2012) identified several factors which
+determine whether successful international organizations function as a
 loosely-coupled network of allies or a more tightly-coupled federation.
 
 In their work, they demonstrate that to the extent to which the work
@@ -186,7 +186,7 @@ partners in the federation be, and how should decisions be made?
 
 Management of a federation of co-equal partners can only be derived from
 conensus. Again from (Mollenhauer 2009), a success factor in federations
-is that
+is that:
 
 > “There is a clear understanding that leadership is shared across the
 > federation and there is acknowledgement of the role of consensus, not
@@ -195,7 +195,7 @@ is that
 > facilitation and puts high value on process as well as on delivering
 > results.”
 
-**Proposal: Federation-wide decision making should be be supported by
+**Proposal: Federation-wide decision making should be supported by
 consensus.**
 
 This doesn’t mean that consensus must be achieved for every single
@@ -205,17 +205,17 @@ agreement, with clear distinctions between “between decisions that need
 unanimous or consensus agreement because they are critical (e.g. those
 tied to risk management) versus those that need a majority (e.g. those
 related to activities).” And while a central office must be responsible
-for those processes as the facilitator, that is a different role from
+for those processes as the facilitator, which is a different role from
 being the decision-maker.
 
 The central office has played different roles over the years. As the
 national arm of the platform, it will always be primarily responsible
-for directly working with national funders, national research
+for directly working with federal funders, national research
 organizations and societies, and international partners. Working with
 those organizations gives the central office a different, birds-eye view
 of the national research community.
 
-These different perspectives matter; our federation’s mandate is not
+These different perspectives matter: our federation’s mandate is not
 just to assist individual researchers already working with us but
 Canadian researchers collectively. It is far too easy to focus too much
 on either the forest or the trees, and the combination of hands-on and

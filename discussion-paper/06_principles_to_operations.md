@@ -44,12 +44,13 @@ the effectiveness of the services provided.
 **Proposal: Services provided should come with agreed-upon SLAs ensuring
 quality and interoperability.**
 
-A federation colleague (ie: a region or the central office) will propose
-taking on the responsibility for providing some or all of the necessary
-service or services: allowing regions to build on existing strengths or
-meet regional priorities. Ideally these services will be assigned based
-on consensus, but for big ticket items where this is unlikely to be
-possible by some pre-agreed upon process led by the central office.
+A federation colleague (*i.e.*: a region or the central office) will
+propose taking on the responsibility for providing some or all of the
+necessary service or services: allowing regions to build on existing
+strengths or meet regional priorities. Ideally these services will be
+assigned based on consensus, but for big ticket items where this is
+unlikely to be possible by some pre-agreed upon process led by the
+central office.
 
 Once the agreement is made, the provider is free to implement the
 service in any way they see fit, but are held accountable for meeting
@@ -81,8 +82,8 @@ partner has specific roles to play.
 **Proposal: The central office should be responsible for nation-wide
 needs assessments and researcher satisfaction.**
 
-The central office must be the convenor of the “birds-eye view” of the
-Canadian research community, working closely with national funding
+The central office must be the convener of the “birds-eye view” of the
+Canadian research community, working closely with federal funding
 agencies, national scholarly communities, and other research service
 providers who can identify gaps in the research ecosystem, or
 underserved communities. In that role, the central office should be
@@ -101,17 +102,18 @@ next steps, and where necessarily, building partnerships outside of the
 federation to accomplish the federation’s agreed-upon goals.
 
 **Proposal: The central office should be responsible for monitoring and
-enforce interoperability and other SLAs on the platform.**
+enforcing interoperability and other SLAs on the platform.**
 
 Coherence of the national platform, and adherence to interoperability
 and other agreed-upon standards, will necessarily be the responsibility
 of the central office. It is this body that will perform monitoring of
 these service levels, and testing interoperability. It is also the
 central office’s responsibility to ensure that there are accountability
-measures in place for service providers not meeting their SLAs. However,
-since failure to provide interoperability or service levels is a failure
-felt by the entire platform, not just the central office, other
-federation partners must also play a role in enforcing these standards.
+measures in place for service providers that are not meeting their SLAs.
+However, since failure to provide interoperability or service levels is
+a failure felt by the entire platform, not just the central office,
+other federation partners must also play a role in enforcing these
+standards.
 
 The needs assessment and SLA or interoperability monitoring roles are
 vital, and generally will be the primary technical roles of the central
@@ -146,10 +148,10 @@ As the uses of computation and data broaden, and become more integrated
 into all areas of scholarship, investigators will increasingly need
 services that require coordination of remote and institutional
 computation and storage, networking, data management, and other research
-services. It won’t — and shouldn’t — matter to those researchers this
-coordination happens; either across multiple organizational boundaries
-or within a single organization so long as the access to resources is
-seamless.
+services. It won’t — and shouldn’t — matter to those researchers how
+this coordination happens; either across multiple organizational
+boundaries or within a single organization so long as the access to
+resources is seamless.
 
 **Proposal: The federation must work closely with other digital
 infrastructure providers and research services organizations in service
