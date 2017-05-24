@@ -77,8 +77,7 @@ almost immediately.
 
 She contacted Walter, describing her algorithm, the distributed data
 sets and the problem. He said that he’d look into the issue further and
-pointed her to to some upcoming online Python parallel programming
-courses.
+pointed her to some upcoming online Python parallel programming courses.
 
 A couple of days later she was contacted by Carolyn Malone, who
 explained she was a performance specialist leading the team working on a

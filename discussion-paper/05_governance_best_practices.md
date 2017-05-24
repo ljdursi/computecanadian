@@ -56,9 +56,9 @@ coherence of local decision-making, while giving the federated
 organization a healthy balance between national office and regional
 offices.
 
-**Proposal: The federation partners should clearly delineate the roles
-and responsibilities of the central office and the regional
-organizations.**
+**Proposal: The federation partners, members, and funders must come to
+agreement on clearly-delineated roles and responsibilities of the
+central office and regional organizations.**
 
 However, in the case of our federation, this move may have been
 incomplete. In both of those two cases part of the process involved
@@ -75,6 +75,10 @@ In a case study of the World Wildlife Fund US (Wei-Skillern and Herman
 learned that we need these kinds of network initiatives to be formal,
 not with bureaucracy, but with people needing to know each other’s
 roles.”
+
+Other federations have divided up roles and responsibilities between
+federation partners in many different ways with success; the exact
+delineation matters less than clarity and wide agreement.
 
 Boards 
 ------
@@ -112,7 +116,10 @@ Even then, handling the conflicting roles of a central office board in a
 federation is genuinely difficult, and we have asked board members to
 date to take this on with little to no support on how best to proceed.
 Most studies recommend board training that emphasizes the challenges and
-possibilities of a federated system.
+possibilities of a federated system, and how governance activities and
+other board decisions can support the work of the federation as a whole.
+In our federation this would complement, but still require, greater
+clarity of the role and the mandate of the central office.
 
 **Proposal: The central office and regional Boards should regularly meet
 to ensure alignment of governance.**
@@ -122,8 +129,9 @@ vacuum, some other possibilities for support present themselves. While
 in our federation to date, there has been much effort in establishing
 ongoing meetings between management and staff of the partners of our
 federation, several works also suggest similar interactions between
-members of the Boards of the partners to ensure alignment of governance,
-not just management.
+members of the Boards of the partners to ensure alignment of not just
+management, but governance, particularly while partners of our
+federation are adjusting to newly-defined roles.
 
 Membership 
 ----------
@@ -195,8 +203,8 @@ is that:
 > facilitation and puts high value on process as well as on delivering
 > results.”
 
-**Proposal: Federation-wide decision making should be supported by
-consensus.**
+**Proposal: Federation-wide decision making processes should be
+supported by all members of the federation.**
 
 This doesn’t mean that consensus must be achieved for every single
 agenda item in a meeting — that brings paralysis — but on
@@ -237,8 +245,8 @@ be stable, even in the presence of disagreements about operations or
 strategy.
 
 **Proposal: The federation should make it clear internally, to the
-research community, and to funders, the value of providing services as a
-federation.**
+research community, and to funders, the value of the federation, the
+delineation of roles, and the services provided by the federation.**
 
 In the case of our federation, there are several important ways a
 federation can be valuable to the partners, although these have not yet

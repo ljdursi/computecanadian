@@ -47,10 +47,11 @@ quality and interoperability.**
 A federation colleague (*i.e.*: a region or the central office) will
 propose taking on the responsibility for providing some or all of the
 necessary service or services: allowing regions to build on existing
-strengths or meet regional priorities. Ideally these services will be
-assigned based on consensus, but for big ticket items where this is
-unlikely to be possible by some pre-agreed upon process led by the
-central office.
+strengths or meet regional priorities. These services should be assigned
+to the federation colleague who has the skills and the mandate to
+provide them. Ideally these assignments will be based on consensus, but
+for big ticket items where this is unlikely to be possible by some
+pre-agreed upon process led by the central office.
 
 Once the agreement is made, the provider is free to implement the
 service in any way they see fit, but are held accountable for meeting
@@ -82,7 +83,7 @@ partner has specific roles to play.
 **Proposal: The central office should be responsible for nation-wide
 needs assessments and researcher satisfaction.**
 
-The central office must be the convener of the “birds-eye view” of the
+The central office must be the owner of the “birds-eye view” of the
 Canadian research community, working closely with federal funding
 agencies, national scholarly communities, and other research service
 providers who can identify gaps in the research ecosystem, or
@@ -94,12 +95,11 @@ communities into the federation’s discussions.
 **Proposal: The agenda should be managed by the central office, and
 consensus should be found or built around priorities.**
 
-As a convener and facilitator, and as the organization developing
-nation-wide assessments, the central office will always be the setter of
-the federation’s agenda. It will need to be the body that drives the
-push for evidence-based consensus around national priorities, planning
-next steps, and where necessarily, building partnerships outside of the
-federation to accomplish the federation’s agreed-upon goals.
+As a convener and facilitator, it will be the Central Office that drives
+the push for evidence-based consensus around national priorities,
+planning next steps, and where necessarily, building partnerships
+outside of the federation to accomplish the federation’s agreed-upon
+goals.
 
 **Proposal: The central office should be responsible for monitoring and
 enforcing interoperability and other SLAs on the platform.**

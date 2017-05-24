@@ -34,12 +34,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/ARC_Canadian
   - title: envelope
     url: mailto:info@compute-canadian.ca
   - title: rss
     url: /feed.xml
+#  - title: twitter
+#    url: http://twitter.com/ARC_Canadian
 
 # Postal address (add as many lines as necessary)
 #address:

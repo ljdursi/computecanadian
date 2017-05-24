@@ -11,7 +11,8 @@ Introduction
 Fundamental to supporting research in Canada are a handful of questions:
 How do we know what services researchers need? How do we best provide
 them? What is the role of a central office? What are the roles of
-provincial organizations, and institutions? How do decisions get made?
+provincial organizations, and institutions? How should decisions get
+made?
 
 This document contains one proposed set of answers to these questions
 for the Compute Canada national platform; a sketch of one possible

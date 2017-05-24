@@ -4,16 +4,16 @@
 \usepackage[most]{tcolorbox}
 \usepackage{natbib}
 
-\newcommand*\Title{Rebooting Compute Canada}
-\newcommand*\cpiType{Building a \textbf{successful} and \textbf{federated} computational~research~enterprise,~together}
-\newcommand*\Date{\href{http://www.rebootcompute.ca}{www.rebootcompute.ca}}
+\newcommand*\Title{Compute Canadian}
+\newcommand*\cpiType{Building a successful and federated computational~research~enterprise,~together}
+\newcommand*\Date{\href{http://www.compute-canadian.ca}{www.compute-canadian.ca}}
 \newcommand*\Author{\parbox{2.5in}{A Discussion Paper For\\ The Compute Canada Community\\by Jonathan Dursi\\and Jill Kowalchuck}}
 \title{\Title}
 \author{\Author}
 \date{\Date}
 %-----------------------------------------------------------
 
-\usepackage{cpistuff/cpi}
+\usepackage{cpi}
 
 \begin{document}
 \pagenumbering{roman}
@@ -97,7 +97,8 @@ national platform to be.
 Fundamental to supporting research in Canada are a handful of questions:
 How do we know what services researchers need? How do we best provide
 them? What is the role of a central office? What are the roles of
-provincial organizations, and institutions? How do decisions get made?
+provincial organizations, and institutions? How should decisions get
+made?
 
 This document contains one proposed set of answers to these questions
 for the Compute Canada national platform; a sketch of one possible
@@ -235,7 +236,7 @@ they crashed almost immediately.
 
 She contacted Walter, describing her algorithm, the distributed data
 sets and the problem. He said that he'd look into the issue further and
-pointed her to to some upcoming online Python parallel programming
+pointed her to some upcoming online Python parallel programming
 courses.
 
 A couple of days later she was contacted by Carolyn Malone, who
@@ -326,13 +327,10 @@ The difference between an organization that is focussed on its clients
 and one whose focus is internal is reflected in behaviour, in particular
 where time and money is spent. In a researcher-focussed technical
 organization, the first question is always ``how does this help the
-researchers''; it casts decision making in terms of researcher needs and
-successes rather than technical implementation details, deferring such
-details until the last possible minute, and pushing such decisions as
-close to the researchers as possible.  Significant decisions can always
-be justified in terms of making it easier for specific researchers to
-tackle concrete current or proposed projects, and the amount of
-resources allocated to that decision are proportional to those goals.
+researchers''; it casts decision making in terms of concrete researcher
+needs and successes on specific projects. Technical implementation
+details are considered at later stages, and decisions on such matters
+are deferred to those responsible for implementation.
 
 A researcher-centred organization must also ensure that they work
 closely with other partners, so that researcher needs requiring
@@ -347,13 +345,24 @@ researchers will not necessarily know to ask for services that have not
 been routinely provided in the past. One must constantly try new
 offerings, but in a disciplined and researcher-centred way.
 
+Casting these offerings as services helps with being researcher-centred.
+In a technology-centred research computing organization, offerings tend
+to focus on the hardware resources themselves (100TB of storage, 100
+core years of compute), or helpdesk-style questions about logging in,
+compiler errors, or queuing jobs. A listing of available services, not
+just available computers, makes it clearer to researchers what types of
+help they are able to get, and it focuses thinking internally about the
+solutions which matter to investigators even if they require
+coordinating several resources (be they people, hardware, or software).
+The Research Platforms program, combining staff time, compute, and
+storage is one offering in that direction.
+
 \proposal{A broad range of research-support services should
 be offered, with new services continually piloted.}
 
 New services can be routinely and inexpensively trialled with pilot
-projects, whether they centre on providing expertise, hardware,
-software, or a combination. The training efforts, currently led by the
-regions, demonstrates the advantage of this approach. Enrollment
+projects.  The training efforts, currently led by the regions and/or
+institutions, demonstrates the advantage of this approach. Enrollment
 provides immediate feedback on demand and content allowing for nimble
 program development.
 
@@ -365,21 +374,12 @@ program development.
 \textcolor{cdaRed}{\textbf{Not Service Oriented}} & \textcolor{cdaRed}{\textbf{Service Oriented}} \\
 \hline \hline 
 New services are chosen centrally and rolled out on a full scale nationally & New services are piloted, tested, and scaled-up or phased out\\
-Services tend to be low-level and with less value-add & Services range from hardware-provision to research partnership\\
+Services tend to be low-level with limited value-add & Services range from hardware-provision to research partnership\\
 Services are either devised centrally, or done \enquote{the way things have always been done} & Best practices and new services used successfully elsewhere are routinely trialled \\
 \hline
 \end{tabular}
 }
 \end{table}
-
-In a technology-focussed research computing organization, the main
-research computing service offered tends to be helpdesk-style questions
-about logging in, compiler errors, or queuing jobs.  Compute Canada
-currently has approximately 60 Ph.D.-level staff and 30 with other
-advanced degrees; it is critical that the federation makes as much use
-of this skill and expertise to provide researchers the most important
-added support, and retains these experts by providing meaningful
-opportunities to contribute to research.
 
 \proposal{Services offered elsewhere, such as having staff participate more closely in research, should be investigated.}
 
@@ -391,21 +391,21 @@ staff participate in the research, often to the level of authorship, and
 manifestly enable research that would have happened more slowly or not
 at all. In the 2013 Compute Canada survey of institutional and regional
 staff, this level of participation was mentioned often as a desire
-technical experts. In the Prologue, staff play several well-defined
-roles in Shannon's project.
-
-SHARCNET has long offered dedicated programmer time, one type of such
-services, and it has been quite successful and indeed very popular with
-both researchers and staff. Such efforts have not yet been trialled
-nationally.
+technical experts, with SHARCNETs dedicated programmer time mentioned
+positively. Compute Canada currently has approximately 60 Ph.D.-level
+staff and 30 with other advanced degrees; it is critical that the
+federation makes as much use of this skill and expertise to provide
+researchers the most important added support, and retains these experts
+by providing meaningful opportunities to contribute to research. In the
+Prologue, staff play several well-defined roles in Shannon's project.
 
 \subsection*{National}
 \addcontentsline{toc}{subsection}{National}%
 
 Any conversation about Compute Canada must have as a starting point that
 Canadian researchers merit having access to a national portfolio of
-resources, and that their location in the country cannot matter for the
-type and level of services received.
+resources, and that their location in the country should not matter for
+the type and level of services received.
 
 \proposal{The platform must be available to the entire
 Canadian research community, with specific efforts to efficiently
@@ -480,7 +480,7 @@ between equal funding partners will be too brittle to last.
 \hline \hline
 Central office makes all decisions & Central and provincial partners make decisions by consensus\\
 Federal government gives money to provinces to spend however they want & Investments are made to build a country-wide platform that supports all researchers, with regional contributions that reflect regional priorities \\
-Understanding of researcher needs limited to either \enquote{the researchers we've worked with} or \enquote{researchers in general} & Researcher needs both local and national, that have been supported already and not, are taken into account \\
+Understanding of researcher needs limited to either \enquote{the researchers we've worked with} or \enquote{researchers in general} & Researcher needs local and national, supported and not-yet-supported, are considered \\
 \hline
 \end{tabular}
 }
@@ -492,12 +492,12 @@ researcher-centred means taking all perspectives on researcher needs
 into account, and the partners in federation have important but
 different perspectives.
 
-As the front-line service-providers to researchers, the regions have
-immediate and hands-on experience knowing what the investigators they
-are working with need. The central office, communicating directly with
-national societies and funding agencies, and conducting needs
-assessments, knows what researchers collectively need, and what is
-currently lacking in the research ecosystem.
+As the front-line service-providers to researchers, the regions and/or
+institutions have immediate and hands-on experience knowing what the
+investigators they are working with need. The central office,
+communicating directly with national societies and funding agencies, and
+conducting needs assessments, knows what researchers collectively need,
+and what is currently lacking in the research ecosystem.
 
 An effort to be researcher-centred based on only one of those
 perspectives cannot succeed. A project undertaken with a general intent
@@ -522,7 +522,7 @@ enabling faster and better research made in modern times, and yet the
 central internet technical body, the Internet Engineering Task Force
 (IETF), does not specify brands of computer and browser, nor does it
 enforce a list of services that every website must provide each user.
-Instead, strict interoperability requirements, coupled with the freedom
+Instead, defined interoperability requirements, coupled with the freedom
 to innovate within those standards, have combined to make the internet
 such a powerful research tool.
 
@@ -540,7 +540,7 @@ vital; implementation details are not.  Currently some of the national
 teams, such as the security team, work under this model, defining
 standards and best practices without specifying implementation details.
 
-Focusing on interoperability rather than implementations allows
+Focusing on interoperability rather than implementation allows
 specialization, with different providers providing solutions tailored to
 different use-cases; it allows experimentation, testing out new
 implementations at one site without disrupting the platform as a whole;
@@ -602,7 +602,8 @@ This document outlines principles for a successful federated Compute
 Canada, and one possible path to get there, but nothing is possible
 without all parties wanting success and wanting to collaborate.
 
-\proposal{The federation should aim to achieve more than the partners could achieve separately.}
+\proposal{The federation should aim to achieve more than the
+partners could achieve separately.}
 
 Collaboration is not easy, and it often comes at the cost of taking more
 time and energy. Working together, building consensus and getting people
@@ -663,7 +664,7 @@ many options for providing services to researchers\\
 }
 \end{table}
 
-A modern organization also experiments with and trains on new
+A modern organization also experiments with, and trains on, new
 operational tools. As more and more companies rely on computer
 infrastructure, the past decade and a half have led to improved
 approaches to ensuring the services they provide are reliable and
@@ -673,8 +674,8 @@ Netflix's `Chaos Monkey' emphasize automation, rigorous testing, and
 continuous improvement, allow staff to focus on providing higher quality
 services.
 
-\proposal{The federation should make use of best available tools
-for interacting with, and supporting researchers.}
+\proposal{The federation should make use of best available
+tools for interacting with, and supporting researchers.}
 
 Since interactions with the researcher are so important, a modern
 research support organization also takes advantage of new tools from
@@ -738,9 +739,9 @@ coherence of local decision-making, while giving the federated
 organization a healthy balance between national office and regional
 offices.
 
-\proposal{The federation partners should clearly delineate
-the roles and responsibilities of the central office and the regional
-organizations.}
+\proposal{The federation partners, members, and funders
+must come to agreement on clearly-delineated roles and
+responsibilities of the central office and regional organizations.}
 
 However, in the case of our federation, this move may have been
 incomplete. In both of those two cases part of the process involved
@@ -757,6 +758,10 @@ staff described these sorts of agreements very
 positively: ``We learned that we need these kinds of network initiatives
 to be formal, not with bureaucracy, but with people needing to know each
 other's roles.''
+
+Other federations have divided up roles and responsibilities between
+federation partners in many different ways with success; the exact
+delineation matters less than clarity and wide agreement.
 
 \subsection*{Boards}
 \addcontentsline{toc}{subsection}{Boards}%
@@ -797,7 +802,10 @@ Even then, handling the conflicting roles of a central office board in a
 federation is genuinely difficult, and we have asked board members to
 date to take this on with little to no support on how best to proceed.
 Most studies recommend board training that emphasizes the challenges and
-possibilities of a federated system.
+possibilities of a federated system, and how governance activities and
+other board decisions can support the work of the federation as a whole.
+In our federation this would complement, but still require, greater
+clarity of the role and the mandate of the central office.
 
 \proposal{The central office and regional Boards should
 regularly meet to ensure alignment of governance. }
@@ -807,8 +815,9 @@ vacuum, some other possibilities for support present themselves. While
 in our federation to date, there has been much effort in establishing
 ongoing meetings between management and staff of the partners of our
 federation, several works also suggest similar interactions between
-members of the Boards of the partners to ensure alignment of governance,
-not just management.
+members of the Boards of the partners to ensure alignment of not just
+management, but governance, particularly while partners of our
+federation are adjusting to newly-defined roles.
 
 \subsection*{Membership}
 \addcontentsline{toc}{subsection}{Membership}%
@@ -882,8 +891,8 @@ facilitation and puts high value on process as well as on delivering
 results.''
 \end{quote}
 
-\proposal{Federation-wide decision making should be
-supported by consensus.}
+\proposal{Federation-wide decision making processes should
+be supported by all members of the federation.}
 
 This doesn't mean that consensus must be achieved for every single
 agenda item in a meeting --- that brings paralysis --- but on
@@ -924,8 +933,8 @@ be stable, even in the presence of disagreements about operations or
 strategy.
 
 \proposal{The federation should make it clear internally, to
-the research community, and to funders, the value of providing services
-as a federation.}
+the research community, and to funders, the value of the federation, the
+delineation of roles, and the services provided by the federation.}
 
 In the case of our federation, there are several important ways a
 federation can be valuable to the partners, although these have not yet
@@ -1011,10 +1020,11 @@ SLAs ensuring quality and interoperability. }
 A federation colleague (\textit{i.e.}: a region or the central office) will 
 propose taking on the responsibility for providing some or all of the
 necessary service or services: allowing regions to build on existing
-strengths or meet regional priorities. Ideally these services will be
-assigned based on consensus, but for big ticket items where this is
-unlikely to be possible by some pre-agreed upon process led by the
-central office.
+strengths or meet regional priorities. These services should be assigned
+to the federation colleague who has the skills and the mandate to
+provide them. Ideally these assignments will be based on consensus, but
+for big ticket items where this is unlikely to be possible by some
+pre-agreed upon process led by the central office.
 
 Once the agreement is made, the provider is free to implement the
 service in any way they see fit, but are held accountable for meeting
@@ -1046,7 +1056,7 @@ partner has specific roles to play.
 \proposal{The central office should be responsible for
 nation-wide needs assessments and researcher satisfaction. }
 
-The central office must be the convener of the ``birds-eye view'' of the
+The central office must be the owner of the ``birds-eye view'' of the
 Canadian research community, working closely with federal funding
 agencies, national scholarly communities, and other research service
 providers who can identify gaps in the research ecosystem, or
@@ -1058,12 +1068,11 @@ communities into the federation's discussions.
 \proposal{The agenda should be managed by the central
 office, and consensus should be found or built around priorities. }
 
-As a convener and facilitator, and as the organization developing
-nation-wide assessments, the central office will always be the setter of
-the federation's agenda.  It will need to be the body that drives the
-push for evidence-based consensus around national priorities, planning
-next steps, and where necessarily, building partnerships outside of the
-federation to accomplish the federation's agreed-upon goals.
+As a convener and facilitator, it will be the Central Office that drives
+the push for evidence-based consensus around national priorities,
+planning next steps, and where necessarily, building partnerships
+outside of the federation to accomplish the federation's agreed-upon
+goals.
 
 \proposal{The central office should be responsible for
 monitoring and enforcing interoperability and other SLAs on the
