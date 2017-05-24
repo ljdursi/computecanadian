@@ -179,7 +179,7 @@ between equal funding partners will be too brittle to last.
 |:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 | Central office makes all decisions                                                                                  | Central and provincial partners make decisions by consensus                                                                                       |
 | Federal government gives money to provinces to spend however they want                                              | Investments are made to build a country-wide platform that supports all researchers, with regional contributions that reflect regional priorities |
-| Understanding of researcher needs limited to either “the researchers we’ve worked with” or “researchers in general” | Researcher needs local and national, supported and not-yet-supported, are considered                                                              |
+| Understanding of researcher needs limited to either “the researchers we’ve worked with” or “researchers in general” | Researcher needs local and national, current users and potential users, are considered                                                            |
 
 The crass-but-practical concern of funding is an immediately clear
 justification for this principle, but not the most important. Being
@@ -246,7 +246,7 @@ entire country.
 | **Focused on Identical**                                                                             | **Focused on Interoperable**                                                                     |
 |:-----------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
 | Infrastructure is specified in terms of technical specifications                                     | Infrastructure requirements specified in terms of SLAs and interfaces to other infrastructure    |
-| Experimentation requires lock-step changes across the country                                        | Experimentation can be performed easily and locally                                              |
+| Experimentation requires lock-step changes across the country                                        | Experimentation can be performed easily and locally, and scaled nationally where appropriate     |
 | New sites cannot fully join the platform without wholesale replacement of infrastructure, procedures | New sites can easily fully join the platform by exposing services, infrastructure via interfaces |
 | Little thought given to interaction with other digital infrastructure providers                      | Close collaboration and interoperation with other digital infrastructure providers               |
 
