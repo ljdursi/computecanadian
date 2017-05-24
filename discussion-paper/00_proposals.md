@@ -9,13 +9,12 @@ permalink: discussion-paper/00_proposals.html
 ## Principles
 **Proposal 1.1**: Research, and concrete researcher needs, should be the basis for all decision making.<br/>
 **Proposal 1.2**: A broad range of research-support services should be offered, with new services continually piloted.<br/>
-**Proposal 1.3**: Services offered elsewhere, such as having staff participate more closely in research, should be investigated.<br/>
-**Proposal 1.4**: The platform must be available to the entire Canadian research community, with specific efforts to efficiently assemble the most appropriate resources to support new and existing communities.<br/>
-**Proposal 1.5**: The structure of our federation partnership must reflect the reality of several funding partners. <br/>
-**Proposal 1.6**: The services offered by the national platform must be interoperable, not merely identical.<br/>
-**Proposal 1.7**: The federation should aim to achieve more than the partners could achieve separately.<br/>
-**Proposal 1.8**: New training should continually be available for emerging hardware and operational tools. <br/>
-**Proposal 1.9**: The federation should make use of best available tools for interacting with, and supporting researchers.<br/>
+**Proposal 1.3**: The platform must be available to the entire Canadian research community, with specific efforts to efficiently assemble the most appropriate resources to support new and existing communities.<br/>
+**Proposal 1.4**: The structure of our federation partnership must reflect the reality of several funding partners. <br/>
+**Proposal 1.5**: The services offered by the national platform must be interoperable, not merely identical.<br/>
+**Proposal 1.6**: The federation should aim to achieve more than the partners could achieve separately.<br/>
+**Proposal 1.7**: New training should continually be available for emerging hardware and operational tools. <br/>
+**Proposal 1.8**: The federation should make use of best available tools for interacting with, and supporting researchers.<br/>
 ## Governance Best Practices from Other Federations
 **Proposal 2.1**: The federation partners, members, and funders must come to agreement on clearly-delineated roles and responsibilities of the central office and regional organizations.<br/>
 **Proposal 2.2**: The central office Board should be provided the training and the support necessary to play their role in the federation. <br/>

@@ -95,9 +95,6 @@ program development.
 | Services tend to be low-level with limited value-add                                  | Services range from hardware-provision to research partnership                     |
 | Services are either devised centrally, or done “the way things have always been done” | Best practices and new services used successfully elsewhere are routinely trialled |
 
-**Proposal: Services offered elsewhere, such as having staff participate
-more closely in research, should be investigated.**
-
 We can look to a variety of international organizations for examples of
 successful service offerings. Examples include XSEDE’s extended
 collaborative support services[^1], and the growing number of Research
