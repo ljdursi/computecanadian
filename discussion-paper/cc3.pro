@@ -21,6 +21,5 @@
 \contentsline {proposal}{\numberline {3.4}The central office should be responsible for nation-wide needs assessments and researcher satisfaction. }{17}{proposal.3.4}
 \contentsline {proposal}{\numberline {3.5}The agenda should be managed by the central office, and consensus should be found or built around priorities. }{17}{proposal.3.5}
 \contentsline {proposal}{\numberline {3.6}The central office should be responsible for monitoring and enforcing interoperability and other SLAs on the platform.}{17}{proposal.3.6}
-\contentsline {proposal}{\numberline {3.7}Responsibility for operations of researcher-facing services should generally belong to the regional organizations.}{17}{proposal.3.7}
-\contentsline {proposal}{\numberline {3.8}Internal federation services can be provided by any partner, or externally. }{18}{proposal.3.8}
-\contentsline {proposal}{\numberline {3.9}The federation must work closely with other digital infrastructure providers and research services organizations in service design, service delivery, and future planning.}{18}{proposal.3.9}
+\contentsline {proposal}{\numberline {3.7}Responsibility for operations of researcher-facing services should belong to the regional organizations.}{17}{proposal.3.7}
+\contentsline {proposal}{\numberline {3.8}The federation must work closely with other digital infrastructure providers and research services organizations in service design, service delivery, and future planning.}{18}{proposal.3.8}

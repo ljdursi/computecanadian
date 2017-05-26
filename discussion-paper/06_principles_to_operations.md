@@ -44,7 +44,7 @@ the effectiveness of the services provided.
 **Proposal: Services provided should come with agreed-upon SLAs ensuring
 quality and interoperability.**
 
-A federation colleague (*i.e.*: a region or the central office) will
+A federation colleague (*e.g.*: a region or the central office) will
 propose taking on the responsibility for providing some or all of the
 necessary service or services: allowing regions to build on existing
 strengths or meet regional priorities. These services should be assigned
@@ -121,16 +121,13 @@ office, as researcher-facing technical services and operations will
 generally be best managed by the regional organizations and sites.
 
 **Proposal: Responsibility for operations of researcher-facing services
-should generally belong to the regional organizations.**
+should belong to the regional organizations.**
 
 Being nimble, and being able to quickly tell if a researcher-facing
 service is successful or if it should be changed, will normally require
 researcher-facing services to be provided organizationally close to the
 researchers. This will generally mean that such services will be housed
 in one or more regional organization.
-
-**Proposal: Internal federation services can be provided by any partner,
-or externally.**
 
 On the other hand, internal services necessary for the administration
 and operation of the federation itself — CRMs, email, dashboards and

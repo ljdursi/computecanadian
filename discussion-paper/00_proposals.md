@@ -29,6 +29,5 @@ permalink: discussion-paper/00_proposals.html
 **Proposal 3.4**: The central office should be responsible for nation-wide needs assessments and researcher satisfaction. <br/>
 **Proposal 3.5**: The agenda should be managed by the central office, and consensus should be found or built around priorities. <br/>
 **Proposal 3.6**: The central office should be responsible for monitoring and enforcing interoperability and other SLAs on the platform.<br/>
-**Proposal 3.7**: Responsibility for operations of researcher-facing services should generally belong to the regional organizations.<br/>
-**Proposal 3.8**: Internal federation services can be provided by any partner, or externally. <br/>
-**Proposal 3.9**: The federation must work closely with other digital infrastructure providers and research services organizations in service design, service delivery, and future planning.<br/>
+**Proposal 3.7**: Responsibility for operations of researcher-facing services should belong to the regional organizations.<br/>
+**Proposal 3.8**: The federation must work closely with other digital infrastructure providers and research services organizations in service design, service delivery, and future planning.<br/>

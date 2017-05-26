@@ -18,8 +18,7 @@ Prof. Reeve’s group bringing experimental and data-analysis expertise,
 but extending the work through comparison to simulations had required
 developing new skills and she couldn’t lean on her new colleagues for
 much help: as someone who had analyzed quite-large experimental datasets
-during grad school abroad, she *was* the local computational expert in
-the growing experimental group.
+during grad school abroad, she *was* the local expert.
 
 When she had signed up for her National Platform account, a quick
 process requiring just an institutional email address, a consultant
@@ -47,8 +46,8 @@ described how to automate the visualizations and what to do with her
 data. There was another cluster elsewhere in the platform (in BC? It
 wasn’t clear, but apparently BC was big into visualization) that had
 GPUs and a file system better suited for this sort of work. The same
-tools that helped her manage her data to ensure she met her funders data
-sharing requirements allowed her to move the data, so migrating the
+tools that helped her manage her data to ensure she met her funder’s
+data sharing requirements allowed her to move the data, so migrating the
 files to and from was pretty painless. In fact, it went so smoothly that
 the one time that it hung for ten minutes, she wrote an email to the
 helpdesk wondering if she had done something wrong. By the time she hit

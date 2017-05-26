@@ -217,11 +217,11 @@ for those processes as the facilitator, which is a different role from
 being the decision-maker.
 
 The central office has played different roles over the years. As the
-national arm of the platform, it will always be primarily responsible
-for directly working with federal funders, national research
-organizations and societies, and international partners. Working with
-those organizations gives the central office a different, birds-eye view
-of the national research community.
+federal arm of the platform, it will always be primarily responsible for
+directly working with federal funders, national research organizations
+and societies, and international partners. Working with those
+organizations gives the central office a different, birds-eye view of
+the national research community.
 
 These different perspectives matter: our federation’s mandate is not
 just to assist individual researchers already working with us but
@@ -282,7 +282,7 @@ commitments to various programmes are spelled out in detailed documents
 agreed to by both sides. While the national offices retain autonomy, the
 network now acts in a much more coherent, integrated way; that increased
 coherence has brought *reduced* tension between central and local
-offices due to the clarity of the mission.
+offices due to the improved clarity of the mission.
 
 On the other hand, if the value of federation isn’t made clear, partners
 may stop engaging with the federation or even depart, such as with the
