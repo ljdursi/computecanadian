@@ -9,7 +9,7 @@ meta_author: Compute Canadian
 future: true
 
 # Google webmaster tools
-google_verify: "h8RITSa6Wwz3xUuoE2bhL4fYfytCGJi6Er700E6SmaM"
+google_verify: "7mx9vaCfLa527rTxXiL3GwvM27XA4goe-H5HoDFpqJ0"
 
 # Contact form:
 #- static : pass through formspree.io to validate email sending
@@ -38,8 +38,8 @@ social:
     url: mailto:info@compute-canadian.ca
   - title: rss
     url: /feed.xml
-#  - title: twitter
-#    url: http://twitter.com/ARC_Canadian
+  - title: twitter
+    url: http://twitter.com/ARC_Canadian
 
 # Postal address (add as many lines as necessary)
 #address:
