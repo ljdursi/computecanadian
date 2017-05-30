@@ -11,17 +11,10 @@ Turning Principles into Operations
 Implementing governance best practices in our federation can greatly
 improve how our federation functions, but we must make sure that the
 federation operates in a way that lives up to the principles we choose
-for our organization.
-
-**Proposal: Key Performance Indicators (KPIs) should reflect our
-Principles.**
-
-We must ensure that the metrics we set ourselves to measure success are
-measuring the right things, rather than being easy to count. This is
-genuinely difficult; it is easier to measure interactions with
-researchers than the number of interactions that no longer have to take
-place because a task has been made simpler. However, we must ensure that
-our stated goals and our measurements of success coincide.
+for our organization. The community as a whole must have input into
+re-designing operations to meet the principles and updated governance of
+the federation; here we offer a few high-level proposals that follow
+directly from our discussion above.
 
 Services 
 --------
@@ -46,7 +39,7 @@ quality and interoperability.**
 
 A federation colleague (*e.g.*: a region or the central office) will
 propose taking on the responsibility for providing some or all of the
-necessary service or services: allowing regions to build on existing
+necessary service or services, allowing regions to build on existing
 strengths or meet regional priorities. These services should be assigned
 to the federation colleague who has the skills and the mandate to
 provide them. Ideally these assignments will be based on consensus, but
@@ -83,7 +76,7 @@ partner has specific roles to play.
 **Proposal: The central office should be responsible for nation-wide
 needs assessments and researcher satisfaction.**
 
-The central office must be the owner of the “birds-eye view” of the
+The central office must be responsible for the “birds-eye view” of the
 Canadian research community, working closely with federal funding
 agencies, national scholarly communities, and other research service
 providers who can identify gaps in the research ecosystem, or
@@ -101,8 +94,8 @@ planning next steps, and where necessarily, building partnerships
 outside of the federation to accomplish the federation’s agreed-upon
 goals.
 
-**Proposal: The central office should be responsible for monitoring and
-enforcing interoperability and other SLAs on the platform.**
+**Proposal: The central office should be responsible for the monitoring
+and enforcing interoperability and other SLAs on the platform.**
 
 Coherence of the national platform, and adherence to interoperability
 and other agreed-upon standards, will necessarily be the responsibility
@@ -120,8 +113,9 @@ vital, and generally will be the primary technical roles of the central
 office, as researcher-facing technical services and operations will
 generally be best managed by the regional organizations and sites.
 
-**Proposal: Responsibility for operations of researcher-facing services
-should belong to the regional organizations.**
+**Proposal: Responsibility for implementation and operations of
+researcher-facing services should generally belong to the regional
+organizations or an external partner.**
 
 Being nimble, and being able to quickly tell if a researcher-facing
 service is successful or if it should be changed, will normally require
@@ -132,11 +126,7 @@ in one or more regional organization.
 On the other hand, internal services necessary for the administration
 and operation of the federation itself — CRMs, email, dashboards and
 monitoring, finance services — might reasonably be housed in any of a
-number of places; any federation partner might propose hosting such a
-service. As with a researcher-facing service, such a service would come
-with an SLA. Externally-provided services would still require one
-federation partner to be responsible for the SLA and interacting with
-the vendor.
+number of places.
 
 Relationship with Other Partners 
 --------------------------------
@@ -161,7 +151,7 @@ than they do for their effect on processes; and it is the process that
 is crucial here. Just as it is unacceptable for researchers to have to
 routinely cobble together resources to support their project within a
 researcher-centred organization, it is unacceptable for researchers to
-have to manage for themselves the more complex task of coordinating
+have to manage for themselves the even more complex task of coordinating
 resources across research support organizations.
 
 In research, collaboration means much more than participants announcing
@@ -170,3 +160,33 @@ with research service organizations. A meaningful collaboration, one
 that can make the best use of each other’s strengths and resources,
 means frequent discussions through planning, implementation, and
 execution phases of a project.
+
+**Proposal: Each federation colleague must advocate on behalf of the
+federation as a whole and the federation’s researcher users to their
+funding partners and other external partners.**
+
+Unlike other large science infrastructure items like accelerators or
+telescopes, the importance of readily and widely available fundamental
+digital infrastructure like computation, data, network, and services
+atop those resources requires constant advocacy and education. Each
+federation colleague has a unique relationship with their funding
+partners and other organizations. Collaboration and a commitment “whole
+is greater than the sum of the parts” means that these opportunities
+should be met with a sustained, coherent, and collaborative advocacy and
+education effort, on behalf of the federation as a whole and all of the
+federation’s research users and not just the individual colleagues.
+
+Relationship with The Community 
+-------------------------------
+
+**Proposal: A renewed federation should renew its relationship with the
+researcher community, emphasizing transparency, engagement, and
+accountability.**
+
+Good governance requires that the Board of Directors of the central
+office be engaged and transparent with its Members, the institutions;
+but those institutions are themselves representatives of the primary
+constituents of our federation, the researchers and scholars. An updated
+federation as a whole, including the central office, should re-engage
+with that community in a collaborative and researcher-centred way,
+emphasizing two-way communication, adaptation, and transparency.

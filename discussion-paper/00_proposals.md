@@ -23,11 +23,12 @@ permalink: discussion-paper/00_proposals.html
 **Proposal 2.5**: Federation-wide decision making processes should be supported by all members of the federation.<br/>
 **Proposal 2.6**: The federation should make it clear internally, to the research community, and to funders, the value of the federation, the delineation of roles, and the services provided by the federation.<br/>
 ## Turning Principles into Operations
-**Proposal 3.1**: Key Performance Indicators (KPIs) should reflect our Principles.<br/>
-**Proposal 3.2**: Services provided should come with agreed-upon SLAs ensuring quality and interoperability. <br/>
-**Proposal 3.3**: Services should be piloted, with definitions of success decided upon before the pilot. <br/>
-**Proposal 3.4**: The central office should be responsible for nation-wide needs assessments and researcher satisfaction. <br/>
-**Proposal 3.5**: The agenda should be managed by the central office, and consensus should be found or built around priorities. <br/>
-**Proposal 3.6**: The central office should be responsible for monitoring and enforcing interoperability and other SLAs on the platform.<br/>
-**Proposal 3.7**: Responsibility for operations of researcher-facing services should belong to the regional organizations.<br/>
-**Proposal 3.8**: The federation must work closely with other digital infrastructure providers and research services organizations in service design, service delivery, and future planning.<br/>
+**Proposal 3.1**: Services provided should come with agreed-upon SLAs ensuring quality and interoperability. <br/>
+**Proposal 3.2**: Services should be piloted, with definitions of success decided upon before the pilot. <br/>
+**Proposal 3.3**: The central office should be responsible for nation-wide needs assessments and researcher satisfaction. <br/>
+**Proposal 3.4**: The agenda should be managed by the central office, and consensus should be found or built around priorities. <br/>
+**Proposal 3.5**: The central office should be responsible for the monitoring and enforcing interoperability and other SLAs on the platform.<br/>
+**Proposal 3.6**: Responsibility for implementation and operations of researcher-facing services should generally belong to the regional organizations or an external partner.<br/>
+**Proposal 3.7**: The federation must work closely with other digital infrastructure providers and research services organizations in service design, service delivery, and future planning.<br/>
+**Proposal 3.8**: Each federation colleague must advocate on behalf of the federation as a whole and the federation's researcher users to their funding partners and other external partners.<br/>
+**Proposal 3.9**: A renewed federation should renew its relationship with the researcher community, emphasizing transparency, engagement, and accountability.<br/>
