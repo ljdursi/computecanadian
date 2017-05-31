@@ -1,10 +1,13 @@
 # Site settings
 title: Compute Canadian
 email: info@compute-canadian.ca
-#url: http://www.compute-canadian.ca
+url: http://www.compute-canadian.ca
 description: "Let's build our successful and federated computational research enterprise, together"
 skills: "Let's build our successful and federated computational research enterprise, together"
 meta_author: Compute Canadian
+
+gems:
+  - jekyll-sitemap
 
 future: true
 

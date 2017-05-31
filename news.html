@@ -19,7 +19,7 @@ title: News
     {{ post.header-media }}
   </header>
   {% endif %}
-  <h1 class="post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{post.title}}</a></h1>
+  <h1 class="post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}/index.html{% else %}{{ post.url | prepend: site.baseurl }}/index.html{% endif %}">{{post.title}}</a></h1>
   <h2 class="post-date">{{ post.date | date_to_string }}</h2>
   <div class="post-data">
     {% if post.tags.size > 0 %}
@@ -32,6 +32,6 @@ title: News
   </div>
 
   <p class="post-content">{{ post.content | split:"<!-- more -->" | first | strip_html | truncatewords: 85 }}</p>
-  <a class="read-more" href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Continue...</a>
+  <a class="read-more" href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}/index.html{% endif %}">Continue...</a>
 </section>
 {% endfor %}
