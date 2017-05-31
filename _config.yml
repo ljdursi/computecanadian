@@ -41,8 +41,6 @@ social:
     url: mailto:info@compute-canadian.ca
   - title: rss
     url: /feed.xml
-  - title: twitter
-    url: http://twitter.com/ARC_Canadian
 
 # Postal address (add as many lines as necessary)
 #address:
