@@ -29,7 +29,7 @@
   {% if item.title == "Discussion Paper" %}
     <ul>
     {% for subitem in item.subcategories %}
-      <li><a href="{{subitem.subhref}}">{{subitem.subtitle}}</a></li>
+      <li><a href="{{subitem.subhref | relative_url }}">{{subitem.subtitle}}</a></li>
     {% endfor %}
     </ul>
   {% endif %}
