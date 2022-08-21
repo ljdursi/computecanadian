@@ -1,7 +1,7 @@
 # Site settings
 title: Compute Canadian
-email: info@compute-canadian.ca
-url: http://www.compute-canadian.ca
+email: jonathan@dursi.ca
+url: https://jdursi.github.io/computecanadian
 description: "Let's build our successful and federated computational research enterprise, together"
 skills: "Let's build our successful and federated computational research enterprise, together"
 meta_author: Compute Canadian
@@ -38,7 +38,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope
-    url: mailto:info@compute-canadian.ca
+    url: mailto:jonathan@dursi.ca
   - title: rss
     url: /feed.xml
 
