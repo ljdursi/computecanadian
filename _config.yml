@@ -6,7 +6,7 @@ description: "Let's build our successful and federated computational research en
 skills: "Let's build our successful and federated computational research enterprise, together"
 meta_author: Compute Canadian
 
-gems:
+plugins:
   - jekyll-sitemap
 
 future: true
