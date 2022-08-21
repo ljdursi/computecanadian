@@ -1,7 +1,8 @@
 # Site settings
 title: Compute Canadian
 email: jonathan@dursi.ca
-url: https://ljdursi.github.io/computecanadian
+url: https://ljdursi.github.io/
+baseurl: /computecanadian
 description: "Let's build our successful and federated computational research enterprise, together"
 skills: "Let's build our successful and federated computational research enterprise, together"
 meta_author: Compute Canadian
